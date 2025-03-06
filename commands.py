@@ -6,3 +6,5 @@ pwd                            : current path
 python3 -m venv venv_name      : local environment create
 sudo apt install python3-venv  : tizimga venv o'rnatish
 """
+
+
